@@ -24,3 +24,7 @@ This change demonstrates the GitHub fork-and-pull request workflow.
 
 \- Submit a pull request for review.
 
+\## Conflict Demo
+
+This line was updated in the main branch.
+
